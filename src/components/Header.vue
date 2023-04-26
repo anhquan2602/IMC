@@ -5,7 +5,7 @@
         <li>Features</li>
         <li>FAQ</li>
         <li>Upload</li>
-        <li>API</li>
+        <li><router-link to="/api" >API</router-link></li>
       </ul>
     </div>
     <div class="logo">

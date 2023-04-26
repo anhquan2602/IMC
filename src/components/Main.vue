@@ -73,11 +73,11 @@ import Navbar from "../components/Navbar.vue";
 @import url(../style/hidden-style.css);
 /* features */
 .features {
+  box-sizing: border-box;
   padding: 10px;
   display: flex;
   width: 100%;
   background-color: black;
-  height: 80px;
   justify-content: center;
 }
 .wrap-fd {
