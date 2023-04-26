@@ -17,3 +17,30 @@ npm run dev
 
 
 // Còn một số giao diện bên dưới em đang fix nốt
+
+Demo hình ảnh
+
+![1](https://user-images.githubusercontent.com/85381795/234495354-e226d3ea-4cd6-4e51-a47a-2df01211fa26.png)
+
+Giao diện trang chủ
+
+
+![2](https://user-images.githubusercontent.com/85381795/234495444-ed0f37fc-d1c8-4f1b-9431-83de5b7db418.png)
+Hover chuột vào bên trái sẽ hiện thông tin text
+
+![3](https://user-images.githubusercontent.com/85381795/234495521-3268d29b-83ae-40f5-8510-f2e8706a014c.png)
+
+Hover chuột vào bên phải sẽ hiện thông tin text
+
+![Footer](https://user-images.githubusercontent.com/85381795/234495582-aac159e8-e7ac-4c5b-9782-ca2818d49d4a.png)
+
+Nhấp chuột vào từng icon sẽ hiện ra danh mục từng sản phẩm
+
+
+
+
+Đề xuất thiết kế
+1. Thiết kế giao diện rút gọn lại của trang web : https://apackets.com/
+2. Làm lại tone màu chủ đạo dựa theo logo ( đen - cam )
+3. Rút gọn lại các thanh phần đưa vào trong mục bấm kéo thả slide
+
