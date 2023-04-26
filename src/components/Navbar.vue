@@ -66,14 +66,14 @@
       </ul>
     </div>
     <div class="detail-nav"></div>
-    <Splide :options="{ rewind: true }" aria-label="My Favorite Images">
+    <!-- <Splide :options="{ rewind: true }" aria-label="My Favorite Images">
       <SplideSlide>
         <img src="../image/arp.png" alt="Sample 1" />
       </SplideSlide>
       <SplideSlide>
         <img src="../image/adn.png" alt="Sample 2" />
       </SplideSlide>
-    </Splide>
+    </Splide> -->
   </div>
 </template>
 <style scoped>
@@ -100,7 +100,8 @@
   height: 60px;
 }
 .nav ul li button:hover {
-  box-shadow: inset 100px 0 0 0 rgb(0, 0, 0);
+  background: none;
+  box-shadow: inset 100px 0 0 0 rgb(0 0 0 / 61%);
   color: white;
 }
 .navbar .nav ul {

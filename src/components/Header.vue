@@ -5,7 +5,7 @@
         <li>Features</li>
         <li>FAQ</li>
         <li>Upload</li>
-        <li><router-link to="/api" >API</router-link></li>
+        <li>API</li>
       </ul>
     </div>
     <div class="logo">
@@ -15,7 +15,7 @@
     </div>
     <div class="menu-right">
       <ul>
-        <li>Price</li>
+        <li><router-link to="/Price">Price</router-link></li>
         <li>View Pcaps</li>
         <li>My Pcaps</li>
         <li>Sign In</li>
@@ -25,6 +25,10 @@
 </template>
 <script></script>
 <style scoped>
+a {
+  text-decoration: blink;
+  color: white;
+}
 .header {
   width: 100%;
   height: 70px;
