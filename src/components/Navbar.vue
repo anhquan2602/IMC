@@ -89,6 +89,7 @@ export default {
 </script>
 <style scoped>
 .detail-nav .box-image {
+  border-radius: 20px;
   width: 100%;
   height: 100%;
 }
