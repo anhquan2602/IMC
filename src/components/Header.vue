@@ -2,7 +2,7 @@
   <div class="header">
     <div class="menu-left">
       <ul>
-        <li>Features</li>
+        <li><router-link  to="/">Features</router-link></li>
         <li>FAQ</li>
         <li>Upload</li>
         <li>API</li>

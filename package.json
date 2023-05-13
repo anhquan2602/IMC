@@ -12,6 +12,7 @@
     "@fortawesome/fontawesome-svg-core": "^6.4.0",
     "@splidejs/splide": "^4.1.4",
     "@splidejs/vue-splide": "^0.6.12",
+    "sass": "^1.62.1",
     "vue": "^3.2.47",
     "vue-route": "^1.5.1",
     "vue-router": "^4.1.6"
