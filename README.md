@@ -36,6 +36,11 @@ Hover chuột vào bên phải sẽ hiện thông tin text
 
 Nhấp chuột vào từng icon sẽ hiện ra danh mục từng sản phẩm
 
+2/ Trang Price
+<img width="1433" alt="image" src="https://github.com/anhquan2602/IMC/assets/85381795/9f3ffb36-a2df-431a-969e-6c72fd7025d0">
+
+Nhấn chuột vào từng mục hiện thị các plan tương ứng !
+
 
 
 
